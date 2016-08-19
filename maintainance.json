@@ -1,0 +1,71 @@
+items: [{
+        "title": "Brakes",
+        "description": "<p>There are many different designs but most braking systems work by pressing a pad against the braking surface of the wall of the wheel rim.</p>" +
+            "<p>Test your brakes frequently as pad wear causes a gradual decline in braking performance.</p>" +
+            "<p>If you notice you have to pull the brake levers fairly close in to the handlebars when braking normally, then your brake cables and pads need to be replaced.</P>" +
+            "<p>There are various kinds of brake pad that vary in hardness.</p>" +
+            "<p>If the rubber material is too hard, it doesn\"t brake well, especially in wet weather too soft and it wears down too quickly.</p>" +
+            "<p>Remember the left brake lever should work the back brake and the right lever the front brake.</p>",
+        "image": "img/brakes.jpg"
+    }, {
+        "title": "Chain",
+        "description": "<p>People tend to neglect their chain which is a big mistake" +
+            " its a job well worth spending 15 minutes on.</p>" +
+            "<p>If you don\"t clean and lubricate it properly, it will make pedalling much harder and mess up the other components on your bike.</p>" +
+            "<p>To avoid the chain doing this or becoming squeaky or too slack make sure you clean and lubricate it at least every month - more often when the weather is wet.</p>" +
+            "<p>To check if the chain has stretched and become slack, try lifting one rivet at the front of the chain ring.</p>" +
+            "<p>If you can pull it away even slightly then the chain is worn.</p>" +
+            "<p>If your chain is caked in mud then hose it clean first.</p>" +
+            "<p>If it\"s only covered in oily dirt then give it a quick wipe with a rag or an old T-shirt.</p>" +
+            "<p>Then use the edge of a cloth to scrape out the muck between the sprockets and to wipe the teeth of the chain rings.</P>" +
+            "<p>Spray the chain rollers with solvent and scrub with an old toothbrush.</P>" +
+            "<p>After you\"ve thoroughly cleaned the chain dry with a rag.</P>" +
+            "<p>Then complete the job with chain lube (lubrication).</P>" +
+            "<p>Run the chain through at high speed, and then wipe off the excess lube.</P>",
+        "image": "img/chain.jpg"
+    }, {
+        "title": "Wheels",
+        "description": "<p>When you spin the front wheel, it should keep on turning for quite a while and there should not be any kind of grinding or cracking noise.</p>" +
+            "<p>If it seems to slow quite quickly or you can hear odd noises, the hub probably needs stripping down and regreasing.</p>" +
+            "<p>If you can see that the rim is buckled then you may need a new wheel.</P>" +
+            "<p>In addition, all the spokes in a wheel should be at roughly the same tension.</p>" +
+            "<p>If there is a buckle, some of the spokes will probably be loose</p>" +
+            "<p>No tyre runs absolutely true but if the tread wanders from side to side a lot or the tyre bulges, try taking it off and re-fitting it more carefully.</p>" +
+            "<p>If that doesn\"t improve things, the tread of the tyre may have been put on crooked during manufacture or it may have been damaged. </p>" +
+            "<p>Make sure your tyres are pumped up to the right pressure.</p>",
+
+        "image": "img/wheels.jpg"
+    }, {
+        "title": "Gears",
+        "description": "<p>Nearly all bikes are fitted with either derailleur or hub gears.</p>" +
+            "<p>Derailleur gears have a front mech (short for front gear mechanism) to shift the chain between two or three chainrings and a rear mech (short for rear gear mechanism) with up to 10 sprockets.</p>" +
+            "<p>Hub gears are fitted between the top and down tubes, have fewer speeds and are used mainly on city and leisure bikes.</p>" +
+            "<p>If you really want to get the most from your bike a smooth, reliable gear change is a must.</p>" +
+            "<p>All rear mechs need frequent lubrication and occasional servicing to keep them working sweetly.</p>" +
+            "<p>So it\"s worth giving your rear mech a few shots of lube every time you lubricate your chain.</p>" +
+            "<p>Pay particular attention to the jockey wheels (these are small wheels in the chain cage of the rear mech that guide the chain round the sprockets) because they pick up hard-packed dirt from the chain.</p>",
+
+        "image": "img/gears.jpg"
+    }, {
+        "title": "Saddle",
+        "description": "<p>On a bike, most of your weight is taken by your hands and your bottom.</p>" +
+            "<p>So for maximum comfort, make sure your weight falls fairly equally on both.</p>" +
+            "<p>Saddles are important because if you pick the wrong one then you\"ll end up with a sore bum!</p>" +
+            "<p>Nearly all saddles nowadays have synthetic gel padding.</p>" +
+            "<p>First of all check that the saddle is horizontal.</p>" +
+            "<p>If it is, try moving it half-an-inch forward, then half-an-inch back - you have to fiddle around to find out what suits you.</p>" +
+            "<p>Some people are more comfortable with the saddle nose pointed up or down just a fraction.</p>" +
+            "<p>Saddle height is very important too.</p>" +
+            "<p>If it\"s set too low you\"ll have much less strength when pedalling and your legs will become tired.</P>" +
+            "<p>A good rule of thumb is to adjust the saddle height until you can stretch your leg right out and comfortably place the ball of your foot on the ground.</p>" +
+            "<p>Your leg should then be bent slightly when the pedal is at its lowest point.</p>" +
+            "<p>For mountain bikes set the basic saddle height in the same way as on a racer.</p>" +
+            "<p>But for downhill and cross-country riding, allow more bend at the knee so you can easily put your foot down when it feels as if you\"re losing control.</p>" +
+            "<p>Also your back should be at an angle of roughly 45 degrees to the ground.</p>" +
+            "<p>This is so you can see ahead without having to crank your head back.</p>" +
+            "<p>It also throws more weight onto the handlebars, holding the front wheel down and helping you to keep control over really rough ground or at high speed.</p>",
+        "image": "img/saddle.jpg"
+    }
+
+
+]

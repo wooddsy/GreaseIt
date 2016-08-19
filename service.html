@@ -1,0 +1,93 @@
+<script src="js/my-app.js"></script>
+<div data-page="service" class="page cached" >
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="left">
+                <a href="index.html" class="link">
+                    <i class="icon icon-back"></i>
+                    <span>Back</span>
+                </a>
+            </div>
+            <div class="center">Safety</div>
+            <div class="right">
+                <a href="about.html" class="link">About us</a>
+
+            </div>
+        </div>
+    </div>
+    <div class="page-content">
+        <div class="content-block-inner">
+            <p>This is the Safety checkList you should be checking these at least once a month or before a long journey</p>
+            <p>Just check off each item as you do your checklist then press log safety check </p>
+        </div>
+        <!--<div class="list-block">-->
+          <form id="query-form" class="list-block store-data">
+            <ul>
+                <!-- Safety checklist list -->
+                <li>
+                    <div class="item-content">Check the tyre tread and presure</div>
+                    <label class="label-checkbox item-content">
+                        <input type="checkbox" name="TyresCb" value="done" >
+                        <div class="item-media">
+                            <i class="icon icon-form-checkbox"></i>
+                        </div>
+                        <div class="item-inner">
+                            <div class="item-title">Tyres</div>
+                        </div>
+                    </label>
+
+                </li>
+                <li>
+                    <div class="item-content">Test brakes for stopping power</div>
+                    <label class="label-checkbox item-content">
+                        <input type="checkbox" name="BrakesCb" value="done">
+                        <div class="item-media">
+                            <i class="icon icon-form-checkbox"></i>
+                        </div>
+                        <div class="item-inner">
+                            <div class="item-title">Brakes</div>
+                        </div>
+                    </label>
+                </li>
+                <li>
+                    <div class="item-content">Visually check exhaust for rust  </div>
+                    <label class="label-checkbox item-content">
+                        <input type="checkbox" name="ExhaustCb" value="done">
+                        <div class="item-media">
+                            <i class="icon icon-form-checkbox"></i>
+                        </div>
+                        <div class="item-inner">
+                            <div class="item-title">Exhaust</div>
+                        </div>
+                    </label>
+                </li>
+                <li>
+                    <div class="item-content">Check if all lights work (you may need some help with this)</div>
+                    <label class="label-checkbox item-content">
+                        <input type="checkbox" name="lightsCb" value="done">
+                        <div class="item-media">
+                            <i class="icon icon-form-checkbox"></i>
+                        </div>
+                        <div class="item-inner">
+                            <div class="item-title">Lights</div>
+                        </div>
+                    </label>
+                </li>
+                <li>
+                    <div class="item-content">check Oil levels buy pulling the dip stick out when the engine is cold</div>
+                    <label class="label-checkbox item-content">
+                        <input type="checkbox" name="oilCb" value="done">
+                        <div class="item-media">
+                            <i class="icon icon-form-checkbox"></i>
+                        </div>
+                        <div class="item-inner">
+                            <div class="item-title">Oil levels</div>
+                        </div>
+                    </label>
+                </li>
+            </ul>
+            <p><a href="#" class="query-submit" >Log safety check</a></p>
+          </form>
+        </div>
+    </div>
+</div>
